@@ -4,5 +4,7 @@ Updated the gem installer to -v 2.2.3 and it seems
 
 ExecJs error fixed.
 
-Added the //= require_bootstrap-sprockets line to the application.js file. Bug not fixed.
+Installed gem coffee-script-source -v 1.8.0
+Corrected spelling mistake in application.html.erb file
+Bootstrap changes now taking effect.
 
