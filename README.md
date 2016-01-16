@@ -10,3 +10,4 @@ Bootstrap changes now taking effect.
 
 Nav bar collapse working, but right side link button doesn't function when screen is resized. There is no response when button is clicked.
 
+Removed Turbo-Links from project.
