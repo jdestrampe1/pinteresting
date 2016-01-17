@@ -20,6 +20,7 @@ gem 'jquery-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.5.3'
 # bundle exec rake doc:rails generates the API under doc/api.
 group :doc do
   gem 'sdoc'
